@@ -1,3 +1,3 @@
 <?php
-echo 'this idex 2 Hello World';
+echo 'this index 2 Hello World changed by fahry';
 ?>
